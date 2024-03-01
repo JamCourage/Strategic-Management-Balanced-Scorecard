@@ -1,4 +1,6 @@
 # Strategic Management Balanced Scorecard
+Written by JamCourage       
+
 **主題類別**            
 Cost Management, Strategic Management                      
 
